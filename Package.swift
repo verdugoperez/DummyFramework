@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "DummyFramework",
+    name: "DummyFramework", 
     platforms: [
         .macOS(.v12), .iOS(.v15)
     ],
